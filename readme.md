@@ -18,6 +18,7 @@ You can install the required dependencies using `pip`:
 
 ```bash
 pip install requests beautifulsoup4
+```
 
 # How It Works
 
@@ -39,6 +40,7 @@ The main function get_price_information(ticker, exchange) scrapes Google Finance
     "price": 2781.44,
     "currency": "USD"
 }
+```
 
 # Notes
 
